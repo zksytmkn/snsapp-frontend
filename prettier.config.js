@@ -2,9 +2,6 @@
 module.exports = {
   // prettier
   printWidth: 120,
-  // addition
-  singleQuote: true,
-  trailingComma: "all",
 
   // @ianvs/prettier-plugin-sort-imports
   plugins: ["@ianvs/prettier-plugin-sort-imports"],
